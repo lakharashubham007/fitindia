@@ -49,7 +49,7 @@ Demo: [Click Me](https://fitindia-workout-101.netlify.app/)
 
 ---
 
-## Author
+## Artist
 
 - Shubham Lakhara
 
